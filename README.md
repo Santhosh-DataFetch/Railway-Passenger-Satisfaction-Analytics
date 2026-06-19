@@ -1,3 +1,22 @@
+## Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](Screenshots/page1.png)
+
+### Service Quality & Satisfaction Drivers
+
+![Service Quality](Screenshots/page2.png)
+
+### Delay Analysis & Operational Performance
+
+![Delay Analysis](Screenshots/page3.png)
+
+### Actionable Insights & Recommendations
+
+![Recommendations](Screenshots/page4.png)
+
+
 Railway Passenger Satisfaction Analytics
 Project Overview
 This project analyzes railway passenger satisfaction using travel and survey datasets. The objective is to identify the factors that influence passenger satisfaction and provide actionable recommendations for improving passenger experience.
