@@ -18,7 +18,13 @@
 
 
 Railway Passenger Satisfaction Analytics
+
+
+
 Project Overview
+
+
+
 This project analyzes railway passenger satisfaction using travel and survey datasets. The objective is to identify the factors that influence passenger satisfaction and provide actionable recommendations for improving passenger experience.
 The project combines Python, Power Query, and Power BI to perform data cleaning, exploratory data analysis (EDA), correlation analysis, and dashboard development.
 ________________________________________
